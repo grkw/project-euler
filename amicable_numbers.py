@@ -1,8 +1,8 @@
 #! /usr/bin/env python3
-'''
+"""
 https://projecteuler.net/problem=21
 Paired with Brian at RC
-'''
+"""
 
 MAX = 10000
 
